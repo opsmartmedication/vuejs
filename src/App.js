@@ -22,7 +22,7 @@ function App() {
 
             <Navbar.Brand>
               <Link to={"/create-student"} className="nav-link">
-                Student Management System
+                azure
               </Link>
             </Navbar.Brand>
 
